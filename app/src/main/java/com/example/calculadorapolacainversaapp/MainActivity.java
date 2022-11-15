@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-EditText num1,num2,signo;//holi
+EditText num1,num2,signo;//hol
 TextView res;
 double ope;
     @Override
